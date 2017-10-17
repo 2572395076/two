@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  width: 100%;
+  height: 100%; }
+
+header {
+  width: 100%;
+  height: 1rem;
+  list-style: none; }
+  header .tou-1 {
+    width: 1rem;
+    height: 1.05rem;
+    float: left; }
+    header .tou-1 img {
+      width: 0.87rem;
+      height: 0.71rem;
+      margin: 0.16rem; }
+  header .tou-2 {
+    width: 1.29rem;
+    height: 1rem;
+    float: left; }
+    header .tou-2 span {
+      width: 1.28rem;
+      height: 0.5rem;
+      font-size: 0.4rem;
+      color: black;
+      display: block;
+      overflow: hidden; }
+    header .tou-2 p {
+      width: 1.28rem;
+      height: 0.3rem;
+      color: silver;
+      font-size: 0.25rem;
+      display: block;
+      margin-top: -0.05rem;
+      overflow: hidden; }
+  header .tou-3 {
+    width: 1.26rem;
+    height: 1rem;
+    float: right;
+    font-size: 0.05rem;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center; }
+    header .tou-3 li {
+      width: 100%; }
+      header .tou-3 li img {
+        width: 0.44rem;
+        height: 0.44rem;
+        margin-top: 0.3rem; }
+      header .tou-3 li p {
+        display: block;
+        width: 0.45rem;
+        height: 0.23rem;
+        overflow: hidden;
+        margin-left: 0.08rem;
+        color: silver; }
+
+article {
+  width: 7.5rem;
+  height: 2.38rem; }
+  article div {
+    width: 7.5rem;
+    height: 2.38rem; }
+    article div img {
+      width: 7.5rem;
+      height: 2.38rem; }
+
+.nei-1 {
+  width: 7.5rem;
+  height: 4.65rem;
+  background-color: white; }
+  .nei-1 .ul-1 {
+    list-style: none;
+    width: 6.82rem;
+    height: 1.72rem;
+    margin-top: 0.36rem;
+    margin-left: 0.34rem;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center; }
+    .nei-1 .ul-1 li {
+      width: 100%; }
+      .nei-1 .ul-1 li img {
+        width: 1.2rem;
+        height: 1.2rem; }
+      .nei-1 .ul-1 li p {
+        font-size: 0.2rem;
+        display: block;
+        width: 0.8rem;
+        height: 0.4rem;
+        overflow: hidden;
+        margin-left: 0.45rem; }
+  .nei-1 .ul-2 {
+    list-style: none;
+    width: 6.82rem;
+    height: 1.72rem;
+    margin-top: 0.52rem;
+    margin-left: 0.34rem;
+    margin-bottom: 0.4rem;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center; }
+    .nei-1 .ul-2 li {
+      width: 100%; }
+      .nei-1 .ul-2 li img {
+        width: 1.2rem;
+        height: 1.2rem; }
+      .nei-1 .ul-2 li p {
+        font-size: 0.2rem;
+        display: block;
+        width: 0.8rem;
+        height: 0.4rem;
+        overflow: hidden;
+        margin-left: 0.45rem; }
+
+.nei-2 {
+  width: 7.5rem;
+  height: 1.5rem;
+  background-color: white; }
+  .nei-2 span {
+    font-size: 0.5rem;
+    border-left: 4px solid slateblue; }
+
+/*# sourceMappingURL=yemian.css.map */
